@@ -1,0 +1,26 @@
+detrital means...?
+
+linear models don't differ that much from non linear (when the stochasticity is taken into account on the linear model)
+
+dearth?  dwarf?
+
+on channels the difference in lithology contributes to the dispersion of the data (assumed)
+
+What's the fire cycle?
+
+the used Dams estimation using suspended sediment?
+
+threshold landscapes?
+
+"correcting for elevation and latitude on a pixel by pixel basis"?
+
+
+
+
+
+Qs
+
+- are there landslides on the moon?
+- how we determined if a landscape is landslide dominated?
+- why would you avoid a knickzone?
+- what's the "angle" of a landscape? of a basin? what makes it a good representative angle?

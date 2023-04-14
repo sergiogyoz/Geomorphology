@@ -1,0 +1,19 @@
+Alan
+
+The article mentions that the erosion rates are more accurate in larger basins (page 136, second column, first paragraph), I assume because there are more 10Be data points. Does the same hold true for erosion rates derived from data collected at depth, or near the penetration depth?
+
+From equation two, what does the "∝" symbol mean?
+
+Rayna
+
+In figure 3, it seems that the catchment basin's average slope levels off at a certain point (about 35) while ksn continues to increase. Is this leveling off due to critical slope? Are ksn values impacted by critical slope values?
+
+What exactly is a "hillslope gradient?" Is this just another term for slope?
+
+In figure 6, similar to average slope, hillslope angle seems to reach a limit around 35°. Is this also related to critical slope? Or, could it be related to a "critical erosion rate" (a term I'm coining) of about 300 m/Ma?
+
+Melinda
+
+Is soil more likely to have landslides than bedrock? Since these are different parameters, won't the erosion rate calculated be affected?
+
+The study avoided using basins with major knickpoints. What effect do knickpoints have in skewing erosion rate that is different from landslides?
